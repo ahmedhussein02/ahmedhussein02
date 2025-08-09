@@ -47,7 +47,7 @@ A unified platform for **brain tumor segmentation and diagnosis**, with a built-
 
 ### 🛠️ Skills & Technologies
 
-- **Languages:** Python
+- **Languages:** Python · C++
 - **Frameworks & Tools:** PyTorch · TensorFlow · Scikit-Learn
 - **Specialties:** Computer Vision · Deep Learning · Data Engineering
 - **Soft Skills:** Business English · Collaborative development · Fast learning
