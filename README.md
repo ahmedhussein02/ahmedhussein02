@@ -1,18 +1,20 @@
 # Hi, I'm Ahmed Hussein
 
 **Computer Science Graduate** — Canadian International College (CIC), Class of 2025
-Passionate about **Python**, **AI & ML**, **Agentic AI**, **Web App Development**, **Data Engineering**
-I'm an AI Engineer with a strong interest in building intelligent solutions that combine **AI** and **data engineering** with Systems and Businesses to automate processes, deal with business challenges and offer intelligent solutions.
+
+---
+
+I'm an AI Engineer with a strong interest in building Applications with intelligent solutions that combine **AI** and **data engineering** with Systems and Businesses to automate processes, deal with business challenges and offer intelligent solutions.
 
 ***
 
 ### Connect with Me
-- [mail](ahmedhussein.root@gmail.com)
-- [Portfolio](ahmed-hussein.com)
-- [LinkedIn](https://www.linkedin.com/in/ahmedhussein02/)
+- Mail: [ahmedhussein.root@gmail.com](ahmedhussein.root@gmail.com)
+- Portfolio: [https://www.ahmed-hussein.com](https://www.ahmed-hussein.com)
+- LinkedIn: [https://www.linkedin.com/in/ahmedhussein02/](https://www.linkedin.com/in/ahmedhussein02/)
 
 ### Resume 
-- [View My Resume](https://drive.google.com/file/d/1k_mEQMfgDXH0T0Nc90XopQesJJpjzmAh/view?usp=drive_link)  
+- [View My Resume](https://drive.google.com/file/d/1uv5cT9vgqhCpzCC7f5WlsgzUO1aC5tYX/view?usp=drive_link)  
 
 ***
 
