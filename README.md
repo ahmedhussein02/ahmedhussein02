@@ -9,7 +9,7 @@ I'm an AI Engineer with a strong interest in building Applications with intellig
 ***
 
 ### Connect with Me
-- Mail: [ahmedhussein.root@gmail.com](ahmedhussein.root@gmail.com)
+- Mail: [ahmedhussein.root@gmail.com](mailto:ahmedhussein.root@gmail.com)
 - Portfolio: [https://www.ahmed-hussein.com](https://www.ahmed-hussein.com)
 - LinkedIn: [https://www.linkedin.com/in/ahmedhussein02/](https://www.linkedin.com/in/ahmedhussein02/)
 
