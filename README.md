@@ -4,7 +4,8 @@
 
 ---
 
-I'm an AI Engineer with a strong interest in building Applications with intelligent solutions that combine **AI** and **data engineering** with Systems and Businesses to automate processes, deal with business challenges and offer intelligent solutions.
+I'm an AI Engineer with a strong interest in building Applications with intelligent solutions.
+I love to combine **AI** and **Software Engineering** with Systems and Businesses to automate processes, deal with business challenges and offer intelligent solutions.
 
 ***
 
@@ -17,5 +18,3 @@ I'm an AI Engineer with a strong interest in building Applications with intellig
 - [View My Resume](https://drive.google.com/file/d/1uv5cT9vgqhCpzCC7f5WlsgzUO1aC5tYX/view?usp=drive_link)  
 
 ***
-
-> *"Intelligence is not just learning — it's applying data to solve the right problem."*
