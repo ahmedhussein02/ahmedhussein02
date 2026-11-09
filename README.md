@@ -21,7 +21,7 @@ I enjoy combining **Artificial Intelligence**, **Software Engineering**, and **S
 
 - Email: [ahmedhussein.root@gmail.com](mailto:ahmedhussein.root@gmail.com)  
 - LinkedIn: [Ahmed Hussein](https://www.linkedin.com/in/ahmedhussein02/)  
-- Portfolio: [ahmed-hussein.com](https://www.ahmed-hussein.site)  
+- Portfolio: [ahmed-hussein.site](https://www.ahmed-hussein.site)  
 
 ---
 
